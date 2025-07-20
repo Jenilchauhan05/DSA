@@ -1,0 +1,1 @@
+// count the number of nodes from link list
